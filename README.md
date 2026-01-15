@@ -1,1 +1,1 @@
-# Team-5---Agentic-AI-Intensive
+Screenshots for IT Access Risk Monitor outputs.

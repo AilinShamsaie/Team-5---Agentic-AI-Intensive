@@ -1,0 +1,14 @@
+Prompt 1:
+Run a full audit and show Risk Counts table.
+
+Prompt 2:
+List the Top 5 High Security Risk accounts with actions.
+
+Prompt 3:
+Which accounts should have licenses removed to reduce cost?
+
+Prompt 4:
+Show compliance risks and recommended actions.
+
+Prompt 5:
+Summarize the top security issues in exactly 3 bullet points.
